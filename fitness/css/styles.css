@@ -118,7 +118,7 @@ main {
 .external-link {
     color: #666600;
     font-weight: bold;
-    text-decoration: name;
+    text-decoration: none;
 }    
 
 #contact{
@@ -133,7 +133,7 @@ main {
 .map {
     border: 2px solid #000;
     width: 95%;
-    height: 50;
+    height: 50%;
 }
 
 /* Style rules for footer content */
@@ -143,7 +143,7 @@ footer p {
     color: #fff;
     padding: 0.1em;   
 }
-    _
+    
 footer p a {
     color: #fff;
     text-decoration: none;
