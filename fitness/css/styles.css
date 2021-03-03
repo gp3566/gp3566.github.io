@@ -157,7 +157,7 @@ footer p a {
     }
 
     .mobile {
-        display: name;
+        display: none;
     }
 
     /* Tablet Viewport: Style rule for header */
@@ -243,7 +243,7 @@ nav li a {
 
 nav li a:hover {
     color: #000
-    background-color #fff;
+    background-color: #fff 
 }
 
 /* Desktop Viewport: Style Rules for main content */
